@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: cucumberOptions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 53.957 s <<< FAILURE! - in cucumberOptions.TestRunner
+Home page default login with parameters(Login Application)  Time elapsed: 0.042 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "home page is populasted" is undefined. You can implement it using the snippet(s) below:
+
+@Then("home page is populasted")
+public void home_page_is_populasted() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
