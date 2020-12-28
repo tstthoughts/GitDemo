@@ -18,6 +18,7 @@ public class HomePage extends Base {
 	//Develop update
 	//second develop commit
 	//third develop commit
+	//git plugin add
 	public WebElement getSearch() {
 		return driver.findElement(Search);
 	}
