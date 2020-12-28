@@ -15,7 +15,7 @@ public class HomePage extends Base {
 	}
 	By Search = By.xpath("//input[@type='search']");
 	
-	//just rough update
+	//Develop update
 	public WebElement getSearch() {
 		return driver.findElement(Search);
 	}
