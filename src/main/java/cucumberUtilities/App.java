@@ -1,4 +1,4 @@
-package Cucumber.Automation;
+package cucumberUtilities;
 
 /**
  * Hello world!
